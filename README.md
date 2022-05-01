@@ -1,4 +1,4 @@
-# ex_app
+# Elderly exercise app
 
 A new Flutter project.
 
